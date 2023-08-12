@@ -14,5 +14,6 @@ This project has gone thorugh 4 phases:
 # 4- Exploring data in SQL:
   - In this phase, i tried to find realtion ships between columns using SQL's queries
 
+-
 
 # To sum up, we can safely say that all launhces at the site of KSC LC 39A with GridFins had a sucess rate of 100 %. This implies that KSC LC 39A should be the main laucnh site for SPACEX and all launhces should be equiped with grid fins to guarantee the mission's success
