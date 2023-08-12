@@ -9,4 +9,5 @@ This project has gone thorugh 4 phases:
 - Because some columns do no have to the actual value of the column but rather the adress or part of the URL of that spcecifc info, we have to do some Data wrangling. Since this is a little advanced we were provided with functions that do the data wrangling and we just have to use them. Also in this phase we created the Class column, which indicated how successful the misson was. 
 # 3- Data visualisation:
  In this phase, i tried to find hidden info & patterns  in the Data. My findings were:
-      - d 
+  - d
+     - d 
