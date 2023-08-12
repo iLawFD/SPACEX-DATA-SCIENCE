@@ -11,3 +11,5 @@ This project has gone thorugh 4 phases:
  In this phase, i tried to find hidden info & patterns  in the Data. My findings were:
   - all launhces at the site of KSC LC 39A with GridFins had a sucess rate of 100 %. This implies that KSC LC 39A should be the main laucnh site for SPACEX and all launhces should be equiped with grid fins.
   -  the Payload mass is faily corrlated with the sucess rate of the mission. This implies that increasing the mass can be benfical.
+# 4- Exploring data in SQL:
+  - In this phase, i tried to find realtion ships between columns using SQL's queries
